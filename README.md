@@ -3,6 +3,7 @@ Voice Activity Detector for ham radio 📻
 
 # prerequisite 🖐️
 1. python (https://www.python.org/downloads/)
+2. arduino (https://www.arduino.cc/en/software)
 
 # Installation 🛠
 1. create virtual environment (python -m venv hamvad) ☁️
