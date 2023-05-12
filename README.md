@@ -9,7 +9,7 @@ This little tool will sample the audio coming from your radio and turn on an LED
 # hardware 🧰
 Arduino uno with LED connected to pin 10 💡</br>
 
-# Installation 🛠
+# installation 🛠
 1. create virtual environment (python -m venv hamvad) ☁️
 2. activate the venv (Scripts\activate.bat) 🌬️
 3. copy this project's files to the venv directory 📑
