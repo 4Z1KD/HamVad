@@ -1,10 +1,13 @@
 # HamVad 🌺
 Voice Activity Detector for ham radio 📻</br>
-This little tool will sample the audio coming from your radio and turn on an LED on the arduino if the is any activity in the frequency
+This little tool will sample the audio coming from your radio and turn on an LED on the arduino if the is any activity on the frequency
 
 # prerequisite 🖐️
 1. python (https://www.python.org/downloads/)
 2. arduino (https://www.arduino.cc/en/software)
+
+# hardware 🧰
+Arduino uno with LED connected to pin 10 💡</br>
 
 # Installation 🛠
 1. create virtual environment (python -m venv hamvad) ☁️
